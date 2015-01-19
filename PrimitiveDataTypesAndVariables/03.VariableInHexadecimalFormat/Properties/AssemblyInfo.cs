@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("proba3")]
+[assembly: AssemblyTitle("03.VariableInHexadecimalFormat")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("proba3")]
+[assembly: AssemblyProduct("03.VariableInHexadecimalFormat")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("cf4a873a-0904-4383-bddb-129b8c484c6c")]
+[assembly: Guid("54532307-9dc3-4e22-b99a-700644e8a6c1")]
 
 // Version information for an assembly consists of the following four values:
 //
